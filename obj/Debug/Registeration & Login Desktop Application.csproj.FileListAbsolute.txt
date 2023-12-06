@@ -1,0 +1,34 @@
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\Registeration & Login Desktop Application.exe.config
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\Registeration & Login Desktop Application.exe
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\Registeration & Login Desktop Application.pdb
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Login.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application_MarkupCompile.cache
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application_MarkupCompile.lref
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Login.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.g.resources
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration___Login_Desktop_Application.Properties.Resources.resources
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.exe
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.pdb
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Signup.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Signup.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Forgetpassword.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Forgetpassword.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\logoutusername.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application_Content.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\logoutusername.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Registeration & Login Desktop Application.csproj.CopyComplete
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Delete.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Search.g.cs
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\App.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Delete.baml
+C:\Users\IT\source\repos\Registeration & Login Desktop Application\obj\Debug\Search.baml

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adminnn">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="admin_username" Type="varchar" MaxLength="100" />
+    <Property Name="admin_pass" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Allatribites">
+    <Key>
+      <PropertyRef Name="user_Phonenumber" />
+    </Key>
+    <Property Name="user_idd" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_Username" Type="varchar" MaxLength="100" />
+    <Property Name="user_Passwordd" Type="varchar" MaxLength="100" />
+    <Property Name="user_Age" Type="int" />
+    <Property Name="user_Gender" Type="varchar" MaxLength="100" />
+    <Property Name="user_Phonenumber" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="user_City" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Adminnn" EntityType="Self.Adminnn" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Allatribites" EntityType="Self.Allatribites" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
