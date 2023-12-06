@@ -1,0 +1,49 @@
+﻿<Application x:Class="Registeration___Login_Desktop_Application.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Registeration___Login_Desktop_Application"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="Label_title" TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="FontSize" Value="30"></Setter>
+            <Setter Property="Foreground" Value="Snow"></Setter>
+        </Style>
+        <Style x:Key="Label" TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="Foreground" Value="Snow"></Setter>
+        </Style>
+        <Style x:Key="text_box" TargetType="TextBox">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="Width" Value="130"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        </Style>
+        
+        <Style x:Key="pass_box" TargetType="PasswordBox">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="Width" Value="130"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        </Style>
+        <Style x:Key="button" TargetType="Button">
+            <Setter Property="Width" Value="100"></Setter>
+            <Setter Property="Height" Value="35"></Setter>
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <Setter Property="Background" Value="Green"></Setter>
+            <Setter Property="FontSize" Value="18"></Setter>
+        </Style>
+        <Style x:Key="combo" TargetType="ComboBox">
+            <Setter Property="Width" Value="100"></Setter>
+            <Setter Property="Height" Value="50"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+            <Setter Property="VerticalAlignment" Value="Top"></Setter>
+
+        </Style>
+    </Application.Resources>
+</Application>
